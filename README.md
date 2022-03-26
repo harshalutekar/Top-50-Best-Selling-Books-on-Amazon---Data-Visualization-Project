@@ -1,0 +1,2 @@
+# Top-50-Best-Selling-Books-on-Amazon---Data-Visualization-Project
+This was a final academic project to be present in class with classification of multiple visualizations to identify the factors which lead to books to grab a place in Amazon's Top50 Best Selling list over the years. The project has multiple dashboards and stories with explicit notations to understand the factors that affect the standings of books among the Top50 list.
